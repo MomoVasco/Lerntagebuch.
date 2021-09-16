@@ -1,6 +1,17 @@
 ---
 title: "Einführungsartikel"
-date: 2021-09-20
+date: 2021-09-16
 ---
 
-Ich erwarte von diesem Kurs ...
+<p>Bibliotheks- und Archivinformatik – Was erwartet mich? Programmieren? Bits und Bytes? Das Testen von Systemen?</p>
+<p>Und mit welchem Wissen und Erwartungen bin ich gestartet?</p>
+<b></b>
+<p>Um ehrlich zu sein, habe ich mir im Vorhinein wenig Gedanken darüber gemacht, was mich im Fach "Bibliotheks- und Archivinformatik erwarten wird und welche Erwartungen ich an das Fach habe. Darüber habe ich erst während der ersten Unterrichtseinheit nachgedacht. Das Wort Informatik hat mich allerdings etwas abgeschreckt.</p>
+Auch habe ich kaum Erfahrung mit Bibliotheks- und Archivinformatik. Meine Erfahrungen beschränken sich hauptsächlich auf die praktische Anwendung von Bibliotheks- und Archivsystemen im Berufsalltag oder im privaten Bereich durch das Nutzen von Bibliothekskatalogen zur Recherche. Während meiner Ausbildung habe ich mit Aleph, WinMedio, sowie einem Archivsystem gearbeitet und an meinem jetzigen Arbeitsplatz verwenden wir ein eigenentwickeltes System basierend auf Microsoft Access, dass jedoch einige Mängel im Bereich der Benutzerfreundlichkeit aufweist. Jedoch habe ich bisher keine Gedanken daran verschwendet, wie die Systeme im Hintergrund arbeiten. Dies überliess ich der IT-Abteilung. Hauptsache alles funktioniert einwandfrei. Durch das Studium konnte ich mir im Übrigen Hintergrundwissen zur Informatik im Allgemeinen sowie Metadaten und Metadatenschemata aneignen. Dies war jedoch oft sehr theoretisch und mir fiel es schwer einen konkreten Praxisbezug herzustellen. Warum muss ich die Umrechnung von Dezimalzahlen in Hexadezimalzahlen beherrschen, um ein System bedienen zu können? Auch ist dieses Wissen mittlerweile etwas in Vergessenheit geraten.</p>
+
+<p>So wünsche ich mir von diesem Fach, dass es einen guten Gesamtüberblick über das Gebiet der Bibliotheks- und Archivinformatik bietet. Zum einen soll Hintergrundwissen zur Funktionsweise von Bibliotheks- und Archivsystemen vermittelt werden. Die Theorie sollte aber nicht zu viel Platz einnehmen. Wichtig ist mir somit auch insbesondere der Praxisbezug. So wäre es wünschenswert einen Einblick in die momentanen sowie zukünftigen Entwicklungen in diesem Bereich zu erhalten und die gängigsten Systeme kennenzulernen.</p> 
+<p>Da ich den Wechsel von Aleph auf ALMA nicht bzw. nur ganz am Rande im Unterricht miterlebt habe, fände ich es interessant zu erfahren, wo dieses Projekt momentan steht und welche positiven und negativen Erfahrungen meine Mitstudierenden damit machen. In diesem Zusammenhang wäre es auch spannend zu erfahren, welche Systeme in den Betrieben meiner Mitstudierenden sonst noch genutzt werden. Da wir das Bibliothekssystem, welches wir momentan an meinem Arbeitsort verwenden, seit langem durch eine modernere Option ersetzen möchten, erhoffe ich mir durch das Fach auch Inspiration diesbezüglich, so dass ich das neugewonnene Wissen in der Praxis umsetzen kann und mich aktiv am Umstellungsprozess beteiligen kann. Im Übrigen würde mich auch ein Input zur Usability von Bibliothekssystemen interessieren.</p>
+<p>Weiter fände ich es auch vorteilhaft, wenn eine Ver- bzw. Anknüpfung zu anderen Studienfächern wie beispielsweise Usability Engineering, Grundlagen semantischer Technologien und Architektur von Informationssystemen hergestellt werden würde, so dass ein umfassendes Gesamtbild entsteht.</p>
+<p>Bezüglich organisatorischer Aspekte wünsche ich mir eine faire Bewertung des Leistungsnachweises, die Unterstützung bei Fragen sowie ein Austausch zwischen den Dozierenden und den Studierenden wie auch innerhalb der Klasse.</p>
+<p>Ich bleibe gespannt und lasse mich positiv überraschen!</p>
+
