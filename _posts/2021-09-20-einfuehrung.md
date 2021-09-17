@@ -1,6 +1,6 @@
 ---
 title: "Einführungsartikel - Wo bin ich gestartet?"
-date: 2021-09-16
+date: 2021-09-15
 ---
 
 <p>Bibliotheks- und Archivinformatik – Was erwartet mich? Programmieren? Bits und Bytes? Das Testen von Systemen?</p>
