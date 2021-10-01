@@ -5,7 +5,7 @@ date: 2021-09-15
 
 <p>Bibliotheks- und Archivinformatik – Was erwartet mich? Programmieren? Bits und Bytes? Das Testen von Systemen?</p>
 <p>Und mit welchem Wissen und Erwartungen bin ich gestartet?</p>
-<b></b>
+
 <p>Um ehrlich zu sein, habe ich mir im Vorhinein wenig Gedanken darüber gemacht, was mich im Fach "Bibliotheks- und Archivinformatik erwarten wird und welche Erwartungen ich an das Fach habe. Darüber habe ich erst während der ersten Unterrichtseinheit nachgedacht. Das Wort Informatik hat mich allerdings etwas abgeschreckt.</p>
 Auch habe ich kaum Erfahrung mit Bibliotheks- und Archivinformatik. Meine Erfahrungen beschränken sich hauptsächlich auf die praktische Anwendung von Bibliotheks- und Archivsystemen im Berufsalltag oder im privaten Bereich durch das Nutzen von Bibliothekskatalogen zur Recherche. Während meiner Ausbildung habe ich mit Aleph, WinMedio, sowie einem Archivsystem gearbeitet und an meinem jetzigen Arbeitsplatz verwenden wir ein eigenentwickeltes System basierend auf Microsoft Access, dass jedoch einige Mängel im Bereich der Benutzerfreundlichkeit aufweist. Jedoch habe ich bisher keine Gedanken daran verschwendet, wie die Systeme im Hintergrund arbeiten. Dies überliess ich der IT-Abteilung. Hauptsache alles funktioniert einwandfrei. Durch das Studium konnte ich mir im Übrigen Hintergrundwissen zur Informatik im Allgemeinen sowie Metadaten und Metadatenschemata aneignen. Dies war jedoch oft sehr theoretisch und mir fiel es schwer einen konkreten Praxisbezug herzustellen. Warum muss ich die Umrechnung von Dezimalzahlen in Hexadezimalzahlen beherrschen, um ein System bedienen zu können? Auch ist dieses Wissen mittlerweile etwas in Vergessenheit geraten.</p>
 
